@@ -1,2 +1,3 @@
-# android_dev_notes
-android_dev_notes
+# Android Development Notes
+
+Repository for notes on Android development
